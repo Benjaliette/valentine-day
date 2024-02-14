@@ -4,6 +4,6 @@ const Gift = () => {
   return (
     <img src={giftImg} alt="" />
   );
-}
+};
 
 export default Gift;
