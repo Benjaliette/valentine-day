@@ -1,5 +1,6 @@
 {
   "name": "valentine-day",
+  "homepage": "https://benjaliette.github.io/valentine-day/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
