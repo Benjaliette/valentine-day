@@ -1,8 +1,10 @@
 const Gift = () => {
-  const giftImg = require("../../assets/images/gift.png");
-
   return (
-    <img src={giftImg} alt="" />
+    <div className="mockup-code">
+      <pre data-prefix=">">
+        <code>Mettre cadeau</code>
+      </pre>
+    </div>
   );
 };
 
